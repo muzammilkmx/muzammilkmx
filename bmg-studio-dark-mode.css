@@ -43,7 +43,6 @@
 
 /* Text Light to Dark */
 --text-color--subtle-black-text: var(--text-color--subtle-white-text);
---text-color--subtle-white-text: var(--text-color--subtle-black-text);
 --text-color--punchy-blue-text: var(--text-color--impact-green-text);
 --text-color--subtle-black-text-50: var(--text-color--subtle-white-text-50);
 }
