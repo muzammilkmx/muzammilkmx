@@ -36,7 +36,7 @@
 /* Outline Colour Neutral Light to Dark */
 --outline-color-neutral--subtle-white-outline: var(--outline-color-neutral--subtle-black-outline);
 --outline-color-neutral--subtle-white-colour-outline-75: var(--outline-color-neutral--subtle-black-colour-outline-75);
---outline-color-neutral--subtle-black-colour-outline: var(--outline-color-neutral--subtle-white-colour-outline);
+----outline-color-neutral--subtle-white-colour-outline: var(--outline-color-neutral--subtle-black-colour-outline);
 
 /* Shadow Light to Dark */
 --shadow--subtle-black-4: var(--shadow--subtle-black-0);
