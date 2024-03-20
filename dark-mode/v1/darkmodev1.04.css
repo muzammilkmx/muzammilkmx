@@ -1,0 +1,60 @@
+
+:root {
+
+/* Alt Light to Dark */
+--color-alt--subtle-white-text-alt: var(--color-alt--subtle-black-text-alt);
+--color-alt--subtle-white-color-outline-alt: var(--color-alt--subtle-black-color-outline-alt);
+--color-alt--bg-subtle-black-alt: var(--color-alt--bg-subtle-white-alt);
+--color-alt--subtle-black-color-outline-badge-alt: var(--color-alt--subtle-white-color-outline-badge-alt);
+
+/* Background Colour Light to Dark */
+--background-color-light-mode--bg-punchy-blue: var(--background-color-dark-mode--bg-impact-green);
+--background-color-light-mode--bg-bright-yellow: var(--background-color-dark-mode--bg-dashy-purple);
+--background-color-light-mode--bg-punchy-blue-10: var(--background-color-dark-mode--bg-impact-green-10);
+--background-color-light-mode--bg-punchy-blue-90: var(--background-color-dark-mode--bg-impact-green-90);
+--background-color-light-mode--bg-bright-yellow-lighter: var(--background-color-dark-mode--bg-dashy-purple-darker);
+--background-color-light-mode--bg-bright-yellow-30: var(--background-color-dark-mode--bg-dashy-purple-30);
+
+/* Background Colour Neutral Light to Dark */
+--background-color-neutral--bg-subtle-white: var(--background-color-neutral--bg-subtle-black);
+--background-color-neutral--bg-subtle-white-80: var(--background-color-neutral--bg-subtle-black-80);
+--background-color-neutral--bg-subtle-white-darker: var(--background-color-neutral--bg-subtle-black-lighter);
+--background-color-neutral--bg-subtle-white-10: var(--background-color-neutral--bg-subtle-black-10);
+
+/* Gradient Light to Dark */
+--gradient-color-light-mode--subtle-white-100-g: var(--gradient-color-dark-mode--subtle-black-100-g);
+--gradient-color-light-mode--subtle-white-50-g: var(--gradient-color-dark-mode--subtle-black-50-g);
+--gradient-color-light-mode--subtle-white-0-g: var(--gradient-color-dark-mode--subtle-black-0-g);
+--gradient-color-light-mode--punchy-blue-alt-90-g: var(--gradient-color-dark-mode--impact-green-alt-90-g);
+--gradient-color-light-mode--punchy-blue-g: var(--gradient-color-dark-mode--impact-green-g);
+--gradient-color-light-mode--bright-yellow-g: var(--gradient-color-dark-mode--dashy-purple-g);
+--gradient-color-light-mode--bright-yellow-lighter-g: var(--gradient-color-dark-mode--dashy-purple-darker-g);
+
+/* Link Colour Light to Dark */
+--link-color--punchy-blue-link: var(--link-color--impact-green-link);
+
+/* Outline Colour Light to Dark */
+--outline-color-light-mode--punchy-blue-outline: var(--outline-color-dark-mode--impact-green-outline);
+--outline-color-light-mode--bright-yellow-outline: var(--outline-color-dark-mode--dashy-purple-outline);
+--outline-color-light-mode--nav-bottom-outline-light: var(--outline-color-dark-mode--nav-bottom-outline-dark);
+--outline-color-light-mode--punchy-blue-lighter-outline: var(--outline-color-dark-mode--impact-green-darker-outline);
+--outline-color-light-mode--bright-yellow-lighter-outline: var(--outline-color-dark-mode--dashy-purple-darker-outline);
+
+/* Outline Colour Neutral Light to Dark */
+--outline-color-neutral--subtle-white-outline: var(--outline-color-neutral--subtle-black-outline);
+--outline-color-neutral--subtle-white-colour-outline-75: var(--outline-color-neutral--subtle-black-colour-outline-75);
+--outline-color-neutral--subtle-white-colour-outline: var(--outline-color-neutral--subtle-black-colour-outline);
+
+/* Shadow Light to Dark */
+--shadow--subtle-black-4: var(--shadow--subtle-black-0);
+--shadow--punchy-blue-16: var(--shadow--impact-green-16);
+
+/* Nav Outline Bottom Light to Dark */
+--outline-color-light-mode--nav-bottom-outline-light: var(--outline-color-dark-mode--nav-bottom-outline-dark);
+
+/* Text Light to Dark */
+--text-color--subtle-black-text: var(--text-color--subtle-white-text);
+--text-color--punchy-blue-text: var(--text-color--impact-green-text);
+--text-color--subtle-black-text-50: var(--text-color--subtle-white-text-50);
+
+}
